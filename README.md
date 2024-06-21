@@ -3,15 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rezalphaz&label=Profile%20views&color=0e75b6&style=flat" alt="rezalphaz" /> </p>
 
-- 🔭 I’m currently working on **Database System**
+- 🔭 I’m currently working on **Degree Life**
 
-- 🌱 I’m currently learning **All programming language**
+- 🌱 I’m currently learning **Network :D**
 
-- 👯 I’m looking to collaborate on **Backend Project**
+- 👯 I’m looking to collaborate on **CyberSecurity Team**
 
-- 🤝 I’m looking for help with **Oracle XE Knowledge**
+- 🤝 I’m looking for help with **Network Knowledge**
 
-- 💬 Ask me about **CyberSecurity, Backend, Frontend**
+- 💬 Ask me about **CyberSecurity, Pentesting**
 
 - 📫 How to reach me **rezalphaz01@gmail.com**
 
