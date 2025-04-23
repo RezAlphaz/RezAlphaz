@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Degree Life**
 
-- 🌱 I’m currently learning **Network **
+- 🌱 I’m currently learning **Network**
 
 - 👯 I’m looking to collaborate on **CyberSecurity Team**
 
